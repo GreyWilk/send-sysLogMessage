@@ -20,7 +20,7 @@ Can specify severity and facility:
 5 = NOTICE\
 6 = INFO\
 7 = DEBUG\
-
+\
 --> Facility\
 0 = kern (kernel messages)\
 1 = user (user-level messages)\
