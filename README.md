@@ -11,15 +11,15 @@ Required input params:
 
 Can specify severity and facility: 
 
---> Severity 
-0 = EMERG 
-1 = Alert 
-2 = CRIT 
-3 = ERR 
-4 = WARNING 
-5 = NOTICE 
-6 = INFO 
-7 = DEBUG 
+--> Severity\
+0 = EMERG\
+1 = Alert\
+2 = CRIT\
+3 = ERR\
+4 = WARNING\
+5 = NOTICE\
+6 = INFO\
+7 = DEBUG\ 
 
 --> Facility 
 0 = kern (kernel messages) 
